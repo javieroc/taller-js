@@ -43,17 +43,57 @@ las actividades. Se recomienda mucho tener instalada alguna distribución Linux 
 agilizar y homogeneizar el setup de los distintos pequeños proyectos que abordaneremos.
 
 
-## Temas:
+## Modulos:
 
-### Modulo 1: Buenas prácticas y entorno de desarrollo (3 clases)
+### Modulo 1: Introducción al desarrollo web (3 clases)
+
+Temas:
+
+- Modelo cliente servidor.
+- Web Apps Arquitectura.
+- Protocolo HTTP.
+- Repositorios.
 
 ### Modulo 2: Frontend fundamentos (4 clases)
 
+Temas:
+
+- HTML
+- CSS
+- Intro a JS
+- Crear sitio institucional o portafolio.
+- Deploy en github pages.
+
 ### Modulo 3: Frontend (6 clases)
+
+Rapida TODO app para ver algunas nociones de la libraría React.
+
+Crear el frontend para proyecto (algunas ideas de proyectos, venta de productos online, social network).
+
+Temas:
+
+- Web components
+- Single page apps.
+- Uso de React
+- Uso de básico de Redux
+- Nociones de webpack
 
 ### Modulo 4: Backend (8 clases)
 
-### Modulo 5: Deployment (2 clases)
+Temas:
+
+- API REST
+- Autenticación
+- Conectarse a bases de datos (mongo o postgres?)
+
+### Modulo 5: Deployment (3 clases)
+
+Temas:
+
+- Deploy
+- Diferentes estrategias para deploy
+- Intro a docker
+- Intro a CI, CD
 
 ## Lugares:
 
