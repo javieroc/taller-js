@@ -23,12 +23,18 @@ con nuestro sitio web.
 
 Entrando un poco más en detalle:
 
-**HTML**
+**Bases de HTML**
 
 HTML, que significa Lenguaje de Marcado de Hipertextos se usa para definir
 el sentido y la estructura del contenido de una página web. Es un lenguaje de
 etiqueta o tags que se declaran usando *(<, > ,/)*.
 
+Vamos a distinguir algunos elementos:
+
+- Etiquetas: estructura básica de html que tienen dos propiedades básicas, atruibutos y contendio, por ejemplo un párrafo: `<p>Esto es un parrafo</p>`.
+- Atributos: son formas de configurar la etiqueta, son pares nombre-valor separados por un signo igual *=*, por ejemplo la url de una imagen `<img img="http://image.png" />`
+- Links: es un tipo especial de etiqueta que genera un hipervinculo de una página a otra, esto es la base de como funciona la web, `<a href="pagina2.html">Soy un link a pagina 2</a>`
+- Imagenes: etiqueta para declarar imagenes usando una *uri*.
 
 
 **Frontend/Backend**
