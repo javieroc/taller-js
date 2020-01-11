@@ -49,6 +49,7 @@ agilizar y homogeneizar el setup de los distintos pequeños proyectos que aborda
 
 Temas:
 
+- Ruta de aprendizaje de desarrollo web.
 - Modelo cliente servidor.
 - Web Apps Arquitectura.
 - Protocolo HTTP.
