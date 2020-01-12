@@ -7,17 +7,17 @@ pero los conceptos aqui aprendidos son cruciales.
 ## Ruta de aprendizaje de desarrollo web
 
 Empecemos recordando que en un pasado cercano, las páginas web se construian
-únicamente usando *html*, *css* y *javascript*. Esto aún sigue siendo cierto
+únicamente usando *HTML*, *CSS* y *Javascript*. Esto aún sigue siendo cierto
 pero ahora contamos con muchas otras herramientas que nos facilitan estructurar
 nuestras aplicaciones web.
 
 [imagen]
 
-Para que nos sirven cada uno de estos lenguajes. Empecemos con *html*, que
+Para que nos sirven cada uno de estos lenguajes. Empecemos con *HTML*, que
 no es un lenguaje de programación sino más bien un lenguaje de marcado que nos
 sirve para declarar la información. Esto quiere decir que html no se encarga
-del diseño de la página web, para eso se usa *css* hojas de estilos en cascada,
-y lo declara con un lenguaje distinto que html. Por último *javascript* si es
+del diseño de la página web, para eso se usa *CSS* hojas de estilos en cascada,
+y lo declara con un lenguaje distinto que html. Por último *Javascript* si es
 un lenguaje de programación que nos ayuda a programar el comportamiento e interacción
 con nuestro sitio web.
 
@@ -35,6 +35,9 @@ Vamos a distinguir algunos elementos:
 - Atributos: son formas de configurar la etiqueta, son pares nombre-valor separados por un signo igual *=*, por ejemplo la url de una imagen `<img img="http://image.png" />`
 - Links: es un tipo especial de etiqueta que genera un hipervinculo de una página a otra, esto es la base de como funciona la web, `<a href="pagina2.html">Soy un link a pagina 2</a>`
 - Imagenes: etiqueta para declarar imagenes usando una *uri*.
+
+**Bases de CSS**
+
 
 
 **Frontend/Backend**
