@@ -1,10 +1,12 @@
-# Modulo 1
+Modulo 1
+========
 
 En este modulo atacaremos las nociones y conceptos elementales para poder
 ser desarrolladores web, algunas cosas se profundizaran en posteriores modulos
 pero los conceptos aqui aprendidos son cruciales.
 
-## Ruta de aprendizaje de desarrollo web
+Ruta de aprendizaje de desarrollo web
+-------------------------------------
 
 Empecemos recordando que en un pasado cercano, las páginas web se construian
 únicamente usando *HTML*, *CSS* y *Javascript*. Esto aún sigue siendo cierto

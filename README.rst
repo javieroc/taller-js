@@ -1,6 +1,9 @@
-# Taller de desarrollo web
+========================
+Taller de desarrollo web
+========================
 
-## Descripción
+Descripción
+-----------
 
 Taller inicial de desarollo web, de cero a profesional.
 
@@ -17,7 +20,8 @@ y estilos, hasta aplicaciones web construidas sobre microservicios. Todo esto us
 metodologías y herramientas que se usan diariamente en cualquier trabajo real.
 
 
-## Dirigido a:
+Dirigido a:
+-----------
 
 Este taller esta destinado a aquellas personas que aún no han tenido su
 primera experiencia laboral y que quieren **trabajar como desarrolladores web**.
@@ -31,7 +35,8 @@ que no deseen realmente participar y aprender de los talleres quedaran excluidos
 El cupo será limitado para garantizar una calidad de aprendizaje adecuada, por la misma razón
 el entusiasmo y compromiso es clave para no ocupar un lugar si no se esta totalmente convencido.
 
-## Requisitos:
+Requisitos:
+-----------
 
 Si bien no es necesario tener conocimientos previos para poder participar de estos
 talleres, se recomiendan nociones básicas de informática y programación en general.
@@ -43,9 +48,11 @@ las actividades. Se recomienda mucho tener instalada alguna distribución Linux 
 agilizar y homogeneizar el setup de los distintos pequeños proyectos que abordaneremos.
 
 
-## Modulos:
+Modulos
+-------
 
-### Modulo 1: Introducción al desarrollo web (3 clases)
+Modulo 1: Introducción al desarrollo web (3 clases)
+###################################################
 
 Temas:
 
@@ -55,7 +62,9 @@ Temas:
 - Protocolo HTTP.
 - Repositorios.
 
-### Modulo 2: Frontend fundamentos (4 clases)
+
+Modulo 2: Frontend fundamentos (4 clases)
+#########################################
 
 Temas:
 
@@ -65,7 +74,9 @@ Temas:
 - Crear sitio institucional o portafolio.
 - Deploy en github pages.
 
-### Modulo 3: Frontend (6 clases)
+
+Modulo 3: Frontend (6 clases)
+#############################
 
 Rapida TODO app para ver algunas nociones de la libraría React.
 
@@ -79,7 +90,9 @@ Temas:
 - Uso de básico de Redux
 - Nociones de webpack
 
-### Modulo 4: Backend (8 clases)
+
+Modulo 4: Backend (8 clases)
+############################
 
 Temas:
 
@@ -87,7 +100,9 @@ Temas:
 - Autenticación
 - Conectarse a bases de datos (mongo o postgres?)
 
-### Modulo 5: Deployment (3 clases)
+
+Modulo 5: Deployment (3 clases)
+###############################
 
 Temas:
 
@@ -96,10 +111,13 @@ Temas:
 - Intro a docker
 - Intro a CI, CD
 
-## Lugares:
+
+Lugares:
+--------
 
 UNSA?
 
-## Medio de contactos:
+Medios de contactos:
+-------------------
 
 Slack, wpp
