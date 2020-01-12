@@ -40,6 +40,29 @@ Vamos a distinguir algunos elementos:
 
 **Bases de CSS**
 
+.. role:: css(code)
+   :language: css
+
+Es un lenguaje de hojas de estilo, es decir, te permite aplicar estilos de manera selectiva a
+elementos en documentos HTML. Por ejemplo, para seleccionar todos los elementos de párrafo en una
+página HTML y volver el texto dentro de ellos de color rojo, has de escribir:
+
+.. code-block:: CSS
+
+   p {
+     color: red;
+   }
+
+Estructura de una regla CSS:
+
+- Selector: El elemento HTML al que aplicaremos la regla. Esta selecciona el(los) elemento(s) a dar estilo (en este caso, los elementos p ).
+- Declaración: Una sola regla como :css:`color: red;` especifica a cuál de las propiedades del elemento quieres dar estilo.
+- Propiedades: Maneras en las cuales puedes dar estilo a un elemento HTML. (En este caso, color es una propiedad del elemento p.)
+- Valor de la propiedad: A la derecha de la propiedad, después de los dos puntos (:), tenemos el valor de la propiedad, para
+  elegir una de las muchas posibles apariencias para una propiedad determinada (hay muchos valores para color además de red).
+
+**Bases de Javascript**
+
 
 
 **Frontend/Backend**

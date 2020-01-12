@@ -1,0 +1,484 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 16 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20200112144143+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200112144143+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Modulo 1) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 1 /First 12 0 R /Last 12 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 683.0236 0 ] /Parent 11 0 R /Title (Ruta de aprendizaje de desarrollo web)
+>>
+endobj
+13 0 obj
+<<
+/Count 2 /Kids [ 7 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Length 7896
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 191.0549 0 Td (Modulo 1) Tj T* -191.0549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .830751 Tw 12 TL /F1 10 Tf 0 0 0 rg (En este modulo atacaremos las nociones y conceptos elementales para poder ser desarrolladores web,) Tj T* 0 Tw 3.538314 Tw (algunas cosas se profundizaran en posteriores modulos pero los conceptos aqui aprendidos son) Tj T* 0 Tw (cruciales.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ruta de aprendizaje de desarrollo web) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .785366 Tw 12 TL /F1 10 Tf 0 0 0 rg (Empecemos recordando que en un pasado cercano, las p\341ginas web se construian \372nicamente usando) Tj T* 0 Tw 3.630697 Tw /F3 10 Tf (HTML) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (CSS) Tj /F1 10 Tf ( y ) Tj /F3 10 Tf (Javascript) Tj /F1 10 Tf (. Esto a\372n sigue siendo cierto pero ahora contamos con muchas otras) Tj T* 0 Tw (herramientas que nos facilitan estructurar nuestras aplicaciones web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ([imagen]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.352339 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para que nos sirven cada uno de estos lenguajes. Empecemos con ) Tj /F3 10 Tf (HTML) Tj /F1 10 Tf (, que no es un lenguaje de) Tj T* 0 Tw 1.313318 Tw (programaci\363n sino m\341s bien un lenguaje de marcado que nos sirve para declarar la informaci\363n. Esto) Tj T* 0 Tw -0.096202 Tw (quiere decir que html no se encarga del dise\361o de la p\341gina web, para eso se usa ) Tj /F3 10 Tf (CSS) Tj /F1 10 Tf ( hojas de estilos en) Tj T* 0 Tw 2.171163 Tw (cascada, y lo declara con un lenguaje distinto que html. Por \372ltimo ) Tj /F3 10 Tf (Javascript) Tj /F1 10 Tf ( si es un lenguaje de) Tj T* 0 Tw (programaci\363n que nos ayuda a programar el comportamiento e interacci\363n con nuestro sitio web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Entrando un poco m\341s en detalle:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Bases de HTML) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .144692 Tw 12 TL /F1 10 Tf 0 0 0 rg (HTML, que significa Lenguaje de Marcado de Hipertextos se usa para definir el sentido y la estructura del) Tj T* 0 Tw (contenido de una p\341gina web. Es un lenguaje de etiqueta o tags que se declaran usando ) Tj /F3 10 Tf (\() Tj (<) Tj (, > ,/\)) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vamos a distinguir algunos elementos:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 446.0236 cm
+Q
+q
+1 0 0 1 62.69291 446.0236 cm
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .127674 Tw 12 TL /F1 10 Tf 0 0 0 rg (Etiquetas: estructura b\341sica de html que tienen dos propiedades b\341sicas, atruibutos y contendio, por) Tj T* 0 Tw (ejemplo un p\341rrafo: ) Tj /F3 10 Tf 0 0 0 rg (<) Tj (p) Tj (>) Tj (Esto es un parrafo) Tj (<) Tj (/p) Tj (>) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
+Q
+q
+1 0 0 1 62.69291 392.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .001412 Tw 12 TL /F1 10 Tf 0 0 0 rg (Atributos: son formas de configurar la etiqueta, son pares nombre-valor separados por un signo igual) Tj T* 0 Tw /F3 10 Tf (=) Tj /F1 10 Tf (, por ejemplo la url de una imagen ) Tj /F3 10 Tf 0 0 0 rg (<) Tj (img img="http://image.png" /) Tj (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .924431 Tw 12 TL /F1 10 Tf 0 0 0 rg (Links: es un tipo especial de etiqueta que genera un hipervinculo de una p\341gina a otra, esto es la) Tj T* 0 Tw (base de como funciona la web, ) Tj /F3 10 Tf 0 0 0 rg (<) Tj (a href="pagina2.html") Tj (>) Tj (Soy un link a pagina 2) Tj (<) Tj (/a) Tj (>) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 356.0236 cm
+Q
+q
+1 0 0 1 62.69291 344.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Imagenes: etiqueta para declarar imagenes usando una ) Tj /F3 10 Tf (uri) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 344.0236 cm
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Bases de CSS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 284.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .321654 Tw (Es un lenguaje de hojas de estilo, es decir, te permite aplicar estilos de manera selectiva a elementos en) Tj T* 0 Tw .238651 Tw (documentos HTML. Por ejemplo, para seleccionar todos los elementos de p\341rrafo en una p\341gina HTML y) Tj T* 0 Tw (volver el texto dentro de ellos de color rojo, has de escribir:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 226.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 30 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 72 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F4 10 Tf 0 .501961 0 rg (p) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg ({) Tj 0 0 0 rg  T* (  ) Tj /F4 10 Tf 0 .501961 0 rg (color) Tj /F5 10 Tf 0 0 0 rg (:) Tj 0 0 0 rg ( ) Tj /F4 10 Tf 0 .501961 0 rg (red) Tj /F5 10 Tf 0 0 0 rg (;) Tj 0 0 0 rg  T* 0 0 0 rg (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 206.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Estructura de una regla CSS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 200.8236 cm
+Q
+q
+1 0 0 1 62.69291 200.8236 cm
+Q
+q
+1 0 0 1 62.69291 176.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .91784 Tw (Selector: El elemento HTML al que aplicaremos la regla. Esta selecciona el\(los\) elemento\(s\) a dar) Tj T* 0 Tw (estilo \(en este caso, los elementos p \).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.8236 cm
+Q
+q
+1 0 0 1 62.69291 146.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.960784 .960784 .862745 rg
+n 154.2799 12 36 12 re f*
+.960784 .960784 .862745 rg
+n 190.2799 12 6.289983 12 re f*
+.960784 .960784 .862745 rg
+n 196.5699 12 24 12 re f*
+BT 1 0 0 1 0 14 Tm .289983 Tw 12 TL /F1 10 Tf 0 0 0 rg (Declaraci\363n: Una sola regla como ) Tj /F5 10 Tf 0 0 0 rg (color:) Tj ( ) Tj (red;) Tj /F1 10 Tf 0 0 0 rg ( especifica a cu\341l de las propiedades del elemento) Tj T* 0 Tw (quieres dar estilo.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 140.8236 cm
+Q
+q
+1 0 0 1 62.69291 116.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .174985 Tw (Propiedades: Maneras en las cuales puedes dar estilo a un elemento HTML. \(En este caso, color es) Tj T* 0 Tw (una propiedad del elemento p.\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 110.8236 cm
+Q
+ 
+endstream
+endobj
+15 0 obj
+<<
+/Length 978
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .153876 Tw (Valor de la propiedad: A la derecha de la propiedad, despu\351s de los dos puntos \(:\), tenemos el valor) Tj T* 0 Tw 4.275366 Tw (de la propiedad, para elegir una de las muchas posibles apariencias para una propiedad) Tj T* 0 Tw (determinada \(hay muchos valores para color adem\341s de red\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Frontend/Backend) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .379036 Tw (Frontend es todo lo que corre en el navegador, lo que se ve. Y backend es todo lo que corre en internet,) Tj T* 0 Tw (en el servidor.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+16 0 obj
+<<
+/Nums [ 0 17 0 R 1 18 0 R ]
+>>
+endobj
+17 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+18 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000073 00000 n 
+0000000144 00000 n 
+0000000251 00000 n 
+0000000363 00000 n 
+0000000478 00000 n 
+0000000588 00000 n 
+0000000693 00000 n 
+0000000898 00000 n 
+0000001103 00000 n 
+0000001208 00000 n 
+0000001474 00000 n 
+0000001548 00000 n 
+0000001673 00000 n 
+0000001739 00000 n 
+0000009687 00000 n 
+0000010716 00000 n 
+0000010766 00000 n 
+0000010800 00000 n 
+trailer
+<<
+/ID 
+[<73c1e35d68020b41fe8276efb3bb3ded><73c1e35d68020b41fe8276efb3bb3ded>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 19
+>>
+startxref
+10834
+%%EOF
