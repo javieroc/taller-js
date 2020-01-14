@@ -30,7 +30,7 @@ y sentir realmente vocación para ello, de nada sirve si se lo busca como salida
 Se le pedirá mucho compromiso a los participantes ya que muchas veces se dejará trabajo 
 pendiente para realizarlo como tarea que se deberan cumplir para alcanzar los objetivos pautados.
 
-Estos talleres se dictaran de manera totalmente gratuita, esto que implica que aquellos
+Estos talleres se dictarán de manera totalmente gratuita, esto que implica que aquellos
 que no deseen realmente participar y aprender de los talleres quedaran excluidos de los mismos.
 El cupo será limitado para garantizar una calidad de aprendizaje adecuada, por la misma razón
 el entusiasmo y compromiso es clave para no ocupar un lugar si no se esta totalmente convencido.
@@ -40,12 +40,12 @@ Requisitos:
 
 Si bien no es necesario tener conocimientos previos para poder participar de estos
 talleres, se recomiendan nociones básicas de informática y programación en general.
-Igualmente las dudas que surgan durante las sesiones se despejaran en la medida de lo
+Igualmente las dudas que surjan durante las sesiones se despejaran en la medida de lo
 posible.
 
 Es necesario que los participantes cuenten con una computadora para poder realizar
-las actividades. Se recomienda mucho tener instalada alguna distribución Linux para
-agilizar y homogeneizar el setup de los distintos pequeños proyectos que abordaneremos.
+las actividades. Se recomienda tener instalada alguna distribución GNU/Linux para
+agilizar y estandarizar el setup de los distintos proyectos que abordaremos.
 
 
 Modulos
@@ -61,6 +61,7 @@ Temas:
 - Web Apps Arquitectura.
 - Protocolo HTTP.
 - Repositorios.
+- Setup?
 
 
 Modulo 2: Frontend fundamentos (4 clases)
@@ -97,8 +98,9 @@ Modulo 4: Backend (8 clases)
 Temas:
 
 - API REST
-- Autenticación
-- Conectarse a bases de datos (mongo o postgres?)
+- Autenticación (JWT?)
+- Conectarse a bases de datos (mongo y postgres)
+- Tests?
 
 
 Modulo 5: Deployment (3 clases)
@@ -109,7 +111,7 @@ Temas:
 - Deploy
 - Diferentes estrategias para deploy
 - Intro a docker
-- Intro a CI, CD
+- Intro a CI, CD (Parece medio avanzado para el curso)
 
 
 Lugares:
