@@ -63,6 +63,23 @@ Estructura de una regla CSS:
 
 **Bases de Javascript**
 
+A diferencia de *HTML* y *CSS*, *Javascript* si es un lenguaje de programación, interpretado y orientado a objetos. Que se
+utiliza en millones de páginas web y aplicaciones de servidor (NodeJS). Javascript no esta directamente relacionado Java, lo
+único en común es que son lenguajes de programación.
+
+La principal carácteristica de Javascript es que permite escribir código asincrono. Esto quiere decir que el código
+no necesariamente se ejecuta en el orden en que lo escribimos. Conceptos relacionados:
+
+- Callbacks/Eventos.
+- Promesas.
+- Async/await.
+- AJAX.
+
+De momento solo utilizaremos Javascript para modificar el DOM y poco más.
+
+
+**DOM: Document Object Model**
+
 
 
 **Frontend/Backend**
